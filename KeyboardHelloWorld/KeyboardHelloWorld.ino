@@ -9,6 +9,7 @@ void setup() {
 
 void loop() {
   //Git example
+  //string 2 
 
   // Эмулируем нажатие клавишь: Вверх, Вниз, Вправо, Влево
   
